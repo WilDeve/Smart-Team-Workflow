@@ -1,0 +1,15 @@
+{
+    "name"       : "smart-team-workflow",
+    "description": "WordPress plugin to accelerate your editorial workflow.",
+    "homepage"   : "",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-2.0+",
+    "support"    : {
+			"issues": "",
+			"forum": "",
+			"source": ""
+	},
+    "require"    : {
+        "composer/installers": "~1.0"
+    }
+}
